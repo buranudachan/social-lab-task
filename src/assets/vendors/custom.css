@@ -1,0 +1,35 @@
+
+.center{
+    text-align: center;
+}
+
+
+
+.custome-header {
+    background-color:LightGray !important;
+    /* width: 12px; */
+    height: 38px !important;
+  }
+
+  .margin {
+    /* background-color: lightgrey; */
+    padding: 1px;
+    margin: 30px;
+  }
+  .scrollbar {
+    width: 98%;
+    height: 100%;
+    overflow-y: scroll;
+  }
+  
+  /* Text Center*/
+.textCenter{
+text-align: center;
+}
+   /*Text Color */
+   .textColor{
+color: orange;
+   }
+#rood{
+  background-color: rgb(58, 56, 56);
+}
